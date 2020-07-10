@@ -1,0 +1,25 @@
+{
+  "name": "@eln/cli",
+  "version": "1.0.0",
+  "description": "A tool for electron + mvvm development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./bin/index.js",
+  "keywords": [
+    "cli",
+    "electron",
+    "vue",
+    "react",
+    "webpack"
+  ],
+  "dependencies": {
+    "commander": "^4.0.0",
+    "inquirer": "^7.1.0",
+    "@eln/cli-shared-utils": "^1.0.0",
+    "validate-npm-package-name": "^3.0.0"
+  },
+  "author": "zhijs",
+  "license": "MIT"
+}

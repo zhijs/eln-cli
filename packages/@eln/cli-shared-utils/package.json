@@ -1,0 +1,16 @@
+{
+  "name": "@eln/cli-shared-utils",
+  "version": "1.0.0",
+  "description": "share utils for eln-cli packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "ora": "^3.4.0",
+    "semver": "^6.0.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
